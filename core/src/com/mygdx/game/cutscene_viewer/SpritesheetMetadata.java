@@ -15,7 +15,7 @@ public class SpritesheetMetadata {
 	protected int width;
 	protected int height;
 	
-	protected HashMap<String, List<Integer>> frameSets;
+	protected HashMap<String, int[]> frameSets;
 	
 	@Override
 	public String toString() {
