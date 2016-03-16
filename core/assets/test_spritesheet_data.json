@@ -1,0 +1,9 @@
+{
+	"width": 8,
+	"height": 5,
+	"frame_sets": {
+						"down_walk": [0,1,2],
+						"up_walk": [2,4,5],
+						"left_walk": [6,7,8]
+				}
+}
