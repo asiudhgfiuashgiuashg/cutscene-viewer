@@ -16,7 +16,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 
-import javax.imageio.ImageIO;
 
 /**
  * 
@@ -28,7 +27,7 @@ import javax.imageio.ImageIO;
 public class SpritesheetMetadataParser {
 	
 	/**
-	 * NOT COMPLETE
+	 *
 	 * @param file - a spritesheet
 	 * @return animations from that file in a dictionary
 	 */
